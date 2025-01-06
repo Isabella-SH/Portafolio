@@ -21,13 +21,13 @@ Puedes conocer más sobre mí en <https://www.linkedin.com/in/isabella-soriano-h
 
 Aquí encontrarás una lista de mis proyectos de software. Haz clic en cada uno para explorar más detalles:
 
-📂 The Big Fun (web)– Aplicación de publicidad y reserva de eventos sociales](./proyectos/the-big-fun-web)
+📂 The Big Fun (web)– Aplicación de publicidad y reserva de eventos sociales](./the-big-fun-web)
 
-📂 The Big Fun (mobile)– Aplicación de reserva de eventos sociales](./proyectos/the-big-fun-mobile)
+📂 The Big Fun (mobile)– Aplicación de reserva de eventos sociales](./the-big-fun-mobile)
 
-📂 Carga Sin Estrés (web) – Aplicación para realizar solicitudes de reservas de mudanza](./proyectos/ carga-sin-estrés-web)
+📂 Carga Sin Estrés (web) – Aplicación para realizar solicitudes de reservas de mudanza](./carga-sin-estrés-web)
 
-📂 Carga Sin Estrés (mobile) – Aplicación para realizar solicitudes de reservas de mudanza](./proyectos/ carga-sin-estrés-mobile)
+📂 Carga Sin Estrés (mobile) – Aplicación para realizar solicitudes de reservas de mudanza](./carga-sin-estrés-mobile)
 
 **🛠️ Tecnologías y Herramientas**
 
