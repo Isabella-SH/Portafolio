@@ -1,6 +1,11 @@
-﻿The Big Fun (web y mobile) – Aplicación de publicidad y reserva de eventos sociales
+﻿<p align="center">
+The Big Fun – Aplicación web y mobile de publicidad y reserva de eventos sociales
+</p>
 
-<td><img src="1.png"></td>
+<p align="center">
+  <img src="1.png" alt="Descripción de la imagen" width="200" height="200">
+</p>
+
 
 **📖 Descripción**
 
