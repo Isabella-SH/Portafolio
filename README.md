@@ -25,7 +25,7 @@ Aquí encontrarás una lista de mis proyectos de software. Haz clic en cada uno 
 
 📂 The Big Fun (mobile)– Aplicación de reserva de eventos sociales](./proyectos/the-big-fun-mobile)
 
-` `📂 Carga Sin Estrés (web) – Aplicación para realizar solicitudes de reservas de mudanza](./proyectos/ carga-sin-estrés-web)
+📂 Carga Sin Estrés (web) – Aplicación para realizar solicitudes de reservas de mudanza](./proyectos/ carga-sin-estrés-web)
 
 📂 Carga Sin Estrés (mobile) – Aplicación para realizar solicitudes de reservas de mudanza](./proyectos/ carga-sin-estrés-mobile)
 
