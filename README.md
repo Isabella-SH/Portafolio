@@ -4,6 +4,7 @@
 
 Este portafolio contiene algunos de los proyectos más representativos en los que he trabajado.
 
+
 **🧑‍💻 Sobre mí**
 
 \- 📚 Estudiante de Ingeniería de Software.
