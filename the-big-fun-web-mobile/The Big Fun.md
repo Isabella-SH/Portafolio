@@ -108,10 +108,13 @@ Escaneo de códigos QR para validar la asistencia y asociar un dispositivo IoT
 Monitoreo a tiempo real de la ubicación de un asistente y su estado de salud
 <td><img src="19.png"></td>
 
-🔗 Enlace del repositorio del proyecto: https://github.com/CrackeletsGroup-IoT
+**🔗 Enlace de los repositorio del proyecto:**
 
+Frontend: https://github.com/CrackeletsGroup-IoT/the-big-fun-web-application
 
+Backend: https://github.com/CrackeletsGroup-IoT/TheBigFun.API
 
+Mobile: https://github.com/CrackeletsGroup-IoT/the-big-fun-mobile-app
 
 
 
