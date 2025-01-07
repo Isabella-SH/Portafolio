@@ -9,7 +9,7 @@ The Big Fun – Aplicación web y mobile de publicidad y reserva de eventos soci
 
 **📖 Descripción**
 
-The Big Fun” surgió para facilitar la búsqueda de eventos sociales, así como la publicidad de estos.  La solución busca satisfacer a 2 tipos de usuarios: Attendee (asistente a eventos) y Organizer (organizador de eventos). Como funcionalidad adicional se incluyó la simulación de conexión con un dispositivo IoT, una pulsera inteligente, el cual recopila datos de ubicación GPS y salud para mostrarlo en aplicación. El sistema permite a los usuarios: 
+The Big Fun” surgió para facilitar la búsqueda de eventos sociales, así como la publicidad de estos.  La solución busca satisfacer a dos tipos de usuarios: Attendee (asistente a eventos) y Organizer (organizador de eventos). Como funcionalidad adicional se incluyó la simulación de conexión con un dispositivo IoT, una pulsera inteligente, el cual recopila datos de ubicación GPS y salud para mostrarlo en aplicación. El sistema permite a los usuarios: 
 
 **Para Attendee (web y mobile)**
 
