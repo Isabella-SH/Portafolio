@@ -28,7 +28,7 @@ Aquí encontrarás una lista de mis proyectos de software. Haz clic en cada uno 
 
 **🛠️ Tecnologías y Herramientas**
 
--Lenguajes: JavaScript, C#, Java, Kotlin, Dart, TypeScript, HTML, CSS, MySQL
+-Lenguajes: JavaScript, C#, Java, Dart, TypeScript, HTML, CSS, MySQL
 
 -Frameworks: React, Node.js, Flutter, Angular
 
