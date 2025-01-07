@@ -138,9 +138,6 @@ Agregar mensaje en el chat de una solicitud para conversar con la empresa
 Visualizar historial de servicios contratados
 <td><img src="37.png"></td>
 
-Cancelación de una solicitud de reserva en el Historial de solicitudes
-<td><img src="22.png"></td>
-
 Generar contrato con Blockchain, cuando la solicitud de reserva sea aceptada
 <td><img src="33.png"></td>
 <td><img src="34.png"></td>
